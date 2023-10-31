@@ -45,7 +45,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/ba-00001/RandomAPIImagesPart3P7/blob/main/AND101.PROJECT7.gif' title='Video Demo' width='' alt='Video Demo' />
+
+https://github.com/ba-00001/RandomAPIImagesPart3P7/blob/main/AND101.PROJECT7.gif
 
 GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
