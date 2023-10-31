@@ -52,7 +52,9 @@ https://github.com/ba-00001/RandomAPIImagesPart3P7/blob/main/AND101.PROJECT7.gif
 GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
 ##APP Pics
+
 <img src='https://github.com/ba-00001/RandomAPIImagesPart3P7/blob/main/AND101.P7.PIC1.png' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/ba-00001/RandomAPIImagesPart3P7/blob/main/AND101.P7.PIC2.png' title='Video Demo' width='' alt='Video Demo' />
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
