@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RandomImagesP3P7" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- For light mode -->
+        <item name="colorPrimary">@color/my_light_primary</item>
+
+    </style>
+
+    <style name="Theme.RandomImagesP3P7" parent="Base.Theme.RandomImagesP3P7" />
+
+    <style name="CustomTextStyle">
+        <item name="android:textColor">@color/blueDark</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">@font/amiko_bold_by_brian</item>
+
+    </style>
+
+
+
+
+
+
+</resources>
